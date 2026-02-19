@@ -1,5 +1,5 @@
-## 👋 ZeroDexGrasp: Zero-Shot Task-Oriented Dexterous Grasp Synthesis with Prompt-Based Multi-Stage Semantic Reasoning
+# 👋 ZeroDexGrasp: Zero-Shot Task-Oriented Dexterous Grasp Synthesis with Prompt-Based Multi-Stage Semantic Reasoning
 
-##⚡coming soon ...
+## 🚀 ⚡ Coming Soon...
 
 
